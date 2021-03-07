@@ -1,3 +1,5 @@
-### Hi there 👋
-
-![intro](https://raw.githubusercontent.com/zehengl/zehengl/master/intro.gif)
+<div align="center">
+  <br>
+  <img src="intro.svg" width="800" height="400">
+  <br>
+</div>
