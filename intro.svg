@@ -3,9 +3,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <head>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap" />
+        <link rel="stylesheet" href="animate.min.css" />
         <style>
           @keyframes gradientBackground {
             0% {
@@ -19,13 +17,14 @@
             }
           }
           div {
-            font-family: 'Roboto', sans-serif;
+            font-family: sans-serif;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
             margin: 0;
-            width: 100%;                                          
+            width: 100%;
+            height: 400px;
             background: linear-gradient(45deg, #476892, #090979, #59355d);
             background-size: 400% 200%;
             animation: gradientBackground 10s ease infinite;
